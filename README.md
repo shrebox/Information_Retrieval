@@ -1,2 +1,2 @@
-# Information_Retrieval
+# Information Retrieval
 My assignments for IR course.
