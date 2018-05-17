@@ -1,0 +1,934 @@
+sre01.txt	11278
+SRE: The Saga Of The Best SRE Game Ever Played! By Josh Renaud
+sre02.txt	5862
+Solar Realms Elite: The True Story of the Unsung Heroes, by Josh Renaud
+sre03.txt	8555
+Solar Realms Elite: Ultra's Untold Story by Josh Renaud
+sre04.txt	44198
+Solar Realms Elite IV: The Confrontation, by Josh Renaud
+sre05.txt	20787
+Solar Realms Elite V: The Underground, by Josh Renaud
+sre06.txt	26731
+Solar Realms Elite VI: The Alliance Restored, by Josh Renaud
+sre07.txt	23597
+Solar Realms Elite 7: Petros, by Josh Renaud
+sre08.txt	33170
+Solar Realms Elite VIII: Kazik, by Josh Renaud
+sre09.txt	26073
+Solar Realms Elite IX: Survival of the Fittest, by Josh Renaud
+sre10.txt	25725
+Solar Realms Elite X: Legacies, by Josh Renaud
+sre_feqh.txt	20054
+Solar Realms Elite: The Feqh Galaxy, by Josh Renaud
+sre_finl.txt	33158
+Solar Realms Elite: The Finale by Josh Renaud
+sre_sei.txt	20753
+Solar Realms Elite: Galaxy Sei, by Josh Renaud
+sretrade.txt	9008
+The SRE Commerce and Trade Theories, by Josh Renaud
+srex.txt	37128
+Solar Realms Elite: X1 and X2, by Josh Renaud
+100west.txt	20839
+Going 100 West by 53 North by Jim Prentice (1990)
+13chil.txt	8457
+The Story of the Sly Fox
+14.lws	5261
+A Smart Bomb with a Language Parser
+16.lws	15294
+Two Guys in a Garage, by M. Pshota
+17.lws	10853
+The Early Days of a High-Tech Start-up are Magic (November 18, 1991) by M. Peshota
+18.lws	26624
+The Couch, the File Cabinet, and the Calendar, by M. Peshota (December 9, 1991)
+19.lws	17902
+Engineering the Future of American Technology by M. Peshota (January 5, 1992)
+20.lws	13588
+What Research and Development Was Always Meant to Be, by M. Peshota
+3gables.txt	33985
+The Adventure of the Three Gables
+3lpigs.txt	5403
+The Story of the 3 Little Pigs
+3sonnets.vrs	2433
+A Collection of Sonnets by Staeorra Rokraven (March 9, 1989)
+3student.txt	36368
+The Adventure of the Three Students
+3wishes.txt	4351
+The Story of the Three Wishes
+4moons.txt	15702
+Fiction: The 4 Moons of Death
+5orange.txt	40995
+The Story of the Five Orange Pips
+6ablemen.txt	6948
+The Story of the Six Able Men
+6napolen.txt	46478
+The Adventure of the Six Napoleons
+7oldsamr.txt	2753
+The Seven Old Samurai
+7voysinb.txt	40792
+The Seven Voyages of Sinbad the Sailor
+ab40thv.txt	11850
+The Story of Ali Baba and the 40 Thieves
+abbey.txt	50426
+The Adventure of the Abbey Grange (RP Story)
+abyss.txt	6558
+How life goes on at the edge of Abyss
+adler.txt	12778
+The Chronicles of Astrus II: Father Adler by Ben Blumenberg
+adv_alad.txt	9908
+The Adventures of Aladdin
+advsayed.txt	10019
+Sayed's Adventures
+advtthum.txt	4373
+The Adventures of Tom Thumb
+aesop11.txt	229320
+Aesop's Fables Translated by George Fyler Townsend
+aesopa10.txt	66376
+Aesop's Fables (84 of Them) from The PaperLess Readers Club
+aircon.txt	2517
+The Air Conditioning Story
+aisle.six	4736
+Aisle Six, by Morpheous of LOM
+aislesix.txt	4815
+Aisle Six, by Morpheous, an LOM Release
+alad10.txt	29051
+Aladdin and the Wonderful Lamp
+alissadl.txt	2169
+The Fable of Ali and the Sultan's Saddle
+altside.hum	29231
+Alternate Side of the Street; Screenplay by Jeff Massie
+aluminum.hum	11596
+An Aluminum Can A Day, by Carl Mitchell
+aminegg.txt	1987
+The Fable of Amin and the Eggs
+angelfur.hum	13376
+Angel's Fur, by Piper Sickles
+angry_ca.txt	6648
+Cliff-Hanger, a Poem
+antcrick.txt	2035
+The Fable of the Ant and the Cricket
+aquith.txt	50520
+My Lord Aquith: Novella by Yves Barbero
+arcadia.sty	64484
+Arcadia, a Story
+archive	163840
+A Collection of Various Good Stories
+arctic.txt	30964
+The Arctic Circle and Beyond, by Jim Prentice (1990)
+asop	2037
+Updating Aesop, or The Old Lady and the Crypt or Blood
+assorted.txt	12535
+FICTION: Yahoo! The Ohio VOW has The Bomb by Gregory S. Swann (1986)
+bagel.man	5888
+Bagel Man, by Aldebaran of 11th Hour Productions
+bagelman.txt	5892
+Bagel-Man, by Aldebaran of 11th Hour Productions
+batlslau.txt	101404
+Collection of Additional Rules for Battletech, by Matt Murphy
+beast.asc	52273
+A Collection of Fiction about The Beast
+beautbst.txt	7543
+The Story of Beauty and the Beast
+beggars.txt	118389
+The Beggar's Opera, by John Gay, 1728
+bern	2615
+The Adventures of Bert and Bernece, by Francis U. Kaltenbaugh
+berternie.txt	3967
+How Ernie and Bert Came to Be, by 11th Hour Productions
+bestwish	2867
+FICTION: My Best Wish
+beyond.hum	9789
+Before the Beyond, by Dallas Vordahl
+bgb.txt	3578
+Beaver Gone Bad! A mini-manuscript by Pete Stocton and Baron Von Crash
+bgcspoof.txt	20361
+Mega-Yonkers 2038 : The Story of Knight Foils: Bubble Gum Cards, by Ryan Mathews, January 1992
+bigred.hum	10356
+Big Red Riding Cape
+bishop00.txt	83681
+Pyramid Scheme, by Douglas M. Warren, 1993
+blabnove.hum	43263
+The Super Blab Novel, from Datanet
+blabnove.txt	43182
+Super Blabnovel-A continuing saga on DATANET
+blackp.txt	45211
+The Adventure of Black Peter
+blackrdr	4148
+A Few Words About The Black Rider (German Literature)
+blak	9951
+Lunch in the Park, by Francis U. Kaltenbaugh
+blasters.fic	1882
+Blasters to the Ready! By William E. Collins
+blh.txt	18604
+The Birdlover's Holiday, by Andrew P. Varga
+blind.txt	7108
+Blind Sight, by Lyn Nichols, August 1993
+blossom.pom	1287
+Little Quaint list of Funny Names to Tell a story.
+blue	21423
+Soldier Blue, by Rick Arnold
+bluebrd.txt	7026
+Bluebeard
+bookem.1	8735
+Boom 'Em Issue #1 (1995)
+bookem2	10620
+Book 'Em Issue #2 (1995)
+bookem3	15585
+Book 'Em Issue #3 (1995)
+brain.damage	13472
+Brain Damage, by Howard I Cannon, 1979
+bram	3835
+Brambles, by Gordon Chapman
+bran	6914
+Branded, by John R. Hillman, Jr.
+breaks1.asc	151858
+Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)
+breaks2.asc	143725
+Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)
+breaks3.asc	106680
+Breaks: The Adventures of Richard Nixon in the 21st Century, by Philip H. Farber (1992-1993)
+bruce-p.txt	61792
+The Adventure of the Bruce-Partington Plans
+buggy.txt	4376
+Buggy, by Andrew P. Varga (1991)
+buldetal.txt	5395
+Details, a story by The Martyr
+buldream.txt	12089
+Dreamworld, by Zaphod Beeblebrox
+bulfelis.txt	12474
+A Story for Cat Lovers
+bulhuntr.txt	19995
+The Hunter, the Hunted, a story by G. Daniel Flower
+bulironb.txt	11842
+Story: Iron Man
+bullove.txt	4136
+Three Paragraphs: Excertps from Something
+bulmrx.txt	57265
+They Don't Come Any Larger: The Continuing Adventures of Mr. X.
+bulnland.txt	7517
+A New Land, by Vengeance
+bulnoopt.txt	7502
+No Options Left, by G. Daniel Flower
+bulolli1.txt	3960
+The Ill-Fated Voyages of Cap'n Roger, by Julius M. Brown (1989)
+bulolli2.txt	3383
+The Adventures of Cap'n Roger (Part 2)
+bulphrek.txt	47098
+A Phreak Encounter (Story)
+bulprint.txt	33768
+Prints of the City, by G. Daniel Flower
+bulwer.lytton	5737
+It was a dark and stormy night (The Best of the Bulwer-Lytton Contest)
+bulzork1.txt	24576
+The Zorker's Story (Story)
+bumm	12194
+Bummers by Thomas Nevin Huber
+bureau.txt	158330
+The Bureau of Procuration (Story)
+burintrv.66	15275
+Interview with William S. Burroughs (1966)
+burintrv.78	12183
+William S. Burroughs: A Sketch (July 1978)
+burintrv.92	26710
+Which is the Fly and Which is the Human? (Interview with William S. Burroughs and David Cronenberg 1992, Equire Magazine
+burltrs	2232
+The Letters of William S. Burroughs (1945-1959) by Oliver Harris
+burn	2598
+The Burn: A Synopsis by Michael C. McPherson
+cabin.txt	2339
+The Cabin, by Adam Poszar (1991)
+cameloto.hum	1956
+Some aborted attempt at a screenplay, maybe
+campfire.txt	2786
+The Best Campire Story of the Week: Do you have a B.C.?
+candle.hum	19409
+The Wind, The Cold, The Candle, by Walter Hawn
+cardcnt.txt	39098
+Accounting for the Cards by H. R. Valimaa
+ccm.txt	2233
+The Fable of the Cock, the Cat, and the Mouse
+charlie.txt	21045
+Cosmic Charlie by Colin Campbell
+chik	9990
+City Chicken, by D. M. Hanna
+clevdonk.txt	1968
+The Donkey that Thought He Was Clever
+clon	22943
+Clones to us! By Thomas Nevin Huber
+cmoutmou.txt	3634
+The Story of The Country Mouse and the Town Mouse
+comp	11016
+Computers N' Me, by Rich Griebel
+confilct.fun	2469
+Conflict, by Jason Scott
+consumdr.hum	23989
+Consumated Dreams, by Melanie Martin Vessels
+contrad1.hum	1397
+Contradiction 1, by Rick Brunet
+cooldark.sto	146795
+Cool Darkness: A Cyberpunk Novel by Matthew Carpenter
+cooldark.txt	146795
+STORY: Cool Darkness, by Matthew Carpenter
+corcor.hum	40142
+Corcoran, by Bruce Drake
+cow.exploder	7552
+The Story of the Cow Exploder by CKE Enterprises (1984)
+crabhern.txt	2181
+The Story of the Crab and the Heron
+crazy.hum	65666
+Crazy Glue, a Novel by Jerry Slaff
+cum	6757
+Come Into my World by Thomas NEvin Huber
+curious.george	4096
+Curious Georgie by The Penguin of SubZero AE
+cybersla.txt	415872
+Book: Revolt of the Cyberslaves, by Lawrence Dworin (1991)
+dakota.txt	151783
+Rifts World Book: North Dakota by Sean Satterlee
+dan	15266
+Made for Dancing, by Charles Bell
+darkness.txt	217124
+The Heart of Darkness by Joseph Conrad
+day.in.mcdonald	6784
+A Day in McDonaldland by G.I. Joe of DETAC (June 10, 1986)
+deal	10658
+Dealer, by Robbie D. Whiting
+deathmrs.d	5163
+The Death of Ms. D, by William S. Burroughs
+deer.txt	4295
+The Deer, by Andrew P. Varga (1992)
+descent.poe	39201
+A Descent into the Maelstrom
+diaryflf.txt	47512
+The Diary of the Swarves
+dicegame.txt	9367
+Guide to Dice Games of Dungeons and Dragons by Reid Bluebaugh
+dicksong.txt	8192
+A Manly Wager by Lucillus and a Heaping of Testosterone
+disco.be.fun	3840
+Disco Can By Fun, by Aldebaran of 11th Hour Productions
+discocanbefun.txt	3921
+Disco Can Be Fun by Aldebaran of 11th Hour Productions
+domain.poe	36642
+The Domain of Arnheim
+dopedenn.txt	8887
+The Story of Dopey Dennis
+dskool.txt	84178
+Dream School: A Novella
+dtruck.txt	8862
+Dad's Pickup, by Andrew P. Varga
+dwar	4602
+Dwarf, by Jeroen Van Drie
+elite.app	109637
+Fiction: Alex
+elveshoe.txt	2683
+The Elves and the Shoemaker
+emperor3.txt	8704
+The Emperor's Three Questions by Leo Tolstoy
+empnclot.txt	6198
+The Emperor's New Clothes
+empsjowk.txt	7474
+The Empress Jowka
+empty.txt	48849
+The Adventure of the Empty House
+enc	12888
+Encoded in Strands, by Gay Bost
+encamp01.txt	4096
+Saturday Night at the Shindar Encampment by Lucillus
+enchdup.hum	95232
+The Enchanted Duplicator, by Walt Willis and Bob Shaw
+enginer.txt	46035
+The Adventure of the Engineer's Thumb
+enya_trn.txt	27011
+English Translations of _The Celts_, _Watermark_, and _Shepherd Moons_, by Enya
+excerpt.hum	5589
+The Snarkout Boys and the Avocado of Death
+excerpt.txt	6036
+A Relevant Excerpt from "The Snarkout Boys and the Avocado of Death", by Daniel Manus Pinkwater.
+eyeargon.hum	70912
+The Eye of Argon, by Jim Theis
+ezoff	14835
+EZ Work, by Gay Bost
+fable.txt	12199
+The Fable, by Ben Blumenberg
+fantas.hum	10454
+Pricilla, the Trout Princess, by Gerald E. Gregg
+fantasy.hum	16428
+The Blab Fantasy Novel
+fantasy.txt	16347
+The Blab Fantasy novel-Ripped off and edited by The Slipped Disk
+fea1	4130
+Hula Hoops and Tinker Toys by Nancy VanWormer (1995)
+fea2	6766
+Waterlogged Klingons by L. Shawn Aiken (1994)
+fea3	3111
+Survey Results, by Joe DeRouen (1994)
+fear.hum	6750
+Fear of Growing Old
+fearmnky	1309
+Fear and the Monkey (A Ouija Board Poem) by William S. Burroughs (1984)
+fgoose.txt	75471
+A List of Father Good Stories
+fic1	46084
+Beacons of Light, by L. Shawn Aiken (1995)
+fic2	36396
+Experiment, by Ed Davis (1993)
+fic3	23996
+Ouija Warning, by Ed Davis (1993)
+fic4	14549
+A Close Encounter of a Different Kind, by Sylvia L. Ramsey (1993)
+fic5	31809
+The Imp, by Ed Davis (1993)
+fic7	12410
+A Chance Meeting in the Park, by Joe DeRouen
+fish.txt	2725
+Once There Was a Fish by Doug Rosentrater
+fleas.txt	3120
+Fleas: A Story, by Adam Poszar (1991)
+flktrp.txt	7320
+Flak Trap (Story) by Brendan Meara (Juanry 18, 1995)
+floc	19364
+Matriarchal Shepherd by Marc Edwards
+floobs.txt	5126
+The Cube of Shalube...By Dr. Muess (June 24, 1989)
+flute.txt	3038
+The Spirit and the Flute (How Flutes Relate to History)
+flytrunk.txt	2007
+The Story of the Flying Trunk
+forgotte	77918
+Forgotten Souls by CAC/The Stinker
+fourth.fic	3815
+Another Fourth of July, by Jeff Epstein
+fowl.death	3328
+Fowl Death by Nuclear Deth (April 7, 1987)
+foxncrow.txt	2179
+The Story of the Fox and the Crow
+foxngrap.txt	2368
+The Story of the Fox and the Grapes
+foxnstrk.txt	2079
+The Story of the Fox and the Stork
+fran	13488
+Cheese or These? By Francis U. Kaltenbaugh
+fred.txt	13304
+The Story of Fred.
+freeman.fil	11352
+The Last Free Man, by Francis W. Porretto
+friend.s	6855
+Man's Best Friend, by Marty Weiss
+friends.txt	76566
+Friends: A Story
+frogp.txt	5311
+The Story of the Frog Prince, by Andrew Varga
+frum	4219
+The Story of Ronald Frump, by Dave Bealer
+game.txt	10638
+The Game, by Suki
+gatherng.txt	10397
+Collection of Poetry by David Fox (1990)
+gay	10523
+A Collection of Poetry by Gay Bost (1994)
+gemdra.txt	4479
+The Story of the Dragons of Gems
+ghost	16110
+Time for Flowers, by Gay Bost
+girl	14273
+Dream Girl by Melina Huddy
+girlclub.txt	52403
+The Girl of the Month Club by Colin Campbell
+glimpse1.txt	3056
+A Glimpse Into My Mind at 12:45pm, by Sean M. Gomez (1993)
+gloves.txt	1679
+Oops! There was a little messup with the christmas gift!
+gold3ber.txt	5558
+The Story of Goldilocks and the Three Bears
+goldbug.poe	78372
+The Gold Bug, by Poe
+goldenp.txt	49790
+The Adventure of the Golden Pince-Nez
+goldfish.txt	4948
+The Little Gold Fish
+goldgoos.txt	5003
+The Tale of the Golden Goose
+grav	22515
+Memory Cemetery, by Gay Bost
+graymare.txt	3211
+Nightmare in Grey by Fredric Brown
+greatlrn.leg	18458
+The Great Learning: The Text of Confucious
+greedog.txt	897
+The Parable of the Greedy Dog
+gulliver.txt	708064
+Gulliver's Travels, by Johnathan Swift (1726)
+hansgrtl.txt	6981
+The Fable of Hansel and Gretel
+hareleph.txt	1696
+The Fable of the Hare and the Elephant
+hareporc.txt	4044
+The Fable of the Hare and the Porcupine
+haretort.txt	2271
+The Fable of the Hare and the Tortoise
+healer.txt	16935
+The Soul Healer: A Story by Ben Blumenberg
+hell4.txt	5983
+Donatien Alphonse Francois de Sade (A Story)
+hellmach.txt	110143
+The Hell Machine, by James C. Lynn (1990)
+helmfuse.txt	2122
+Ashtray and Gherkin (Helmet Fusion Specialists)
+hils	15359
+The Hills of Commerce, by Marilyn Hutchings
+history5.txt	140322
+The Slopes of Te Aroha
+hitch2.txt	330566
+Complete Transcription of Douglas Adams' "Restaurant at the End of the Universe"
+hitch3.txt	327595
+Complete Transcription of Douglas Adams' "Life, the Universe and Everything"
+hole2nar.txt	3229
+The Hole THat Was Too Narrow
+holmesbk.txt	29749
+The Holmes List: A List of Books That Reference or Discuss Sherlock Holmes
+home.fil	7151
+The Homecoming, by Francis W. Porretto of Horse Feathers BBS
+hop-frog.poe	21472
+The Story of Hop Frog
+horsdonk.txt	2344
+The Horse and the Donkey
+horswolf.txt	2085
+The Horse and the Wolf
+hotline1.txt	3243
+Hotline! by James Zachary
+hotline3.txt	3000
+Hotline! Part III, by James Zachary
+hotline4.txt	3144
+Hotline! Part IV, by James Zachary
+hound-b.txt	328031
+The Hound of the Baskervilles, by Sir Arthur Conan Doyle
+how.ernie.bert	3968
+how Ernie and Bert Came to Be by 11th Hour Productions
+idi.hum	19923
+The First Adventures of IDI
+igiv	18304
+I Give Up, by Thomas Nevin Huber
+imagin.hum	11169
+Just Imagine: A Story
+immortal	12264
+Immortality by William S. Burroughs
+immorti.hum	18491
+Immorti, by Todd Rich
+imonly17.txt	3590
+Please, God, I'm Only 17... by the Elite Executives
+inter	16939
+Submerged Interface, by Gay Bost
+island.poe	11922
+The Island of the Fay
+jackbstl.txt	9475
+The Story of Jack and the Beanstalk
+jackmac.fic	14134
+Jackmac's Discovery by Jeff Epstein
+jaynejob.asc	6158
+Be a Clerk All My Life? Not Me!
+jerichms.hum	5851
+Bricks In The Wall, by M.D. Roccatani
+jim.asc	1612
+The Book of Jim
+keeping.insanit	9856
+Keeping Insanity in the Closet, by The Weatherman (April 13th, 1988)
+keepmodu.txt	88567
+Odnaar Keep by David M. Millstein
+kharian.txt	8459
+The Legends of the Kharianians
+kneeslapper	1024
+Kneeslapper by Slafathor (July 23, 1991)
+kneeslapper.txt	1051
+Kneeslapper by Slagathor (July 23, 1991)
+knuckle.txt	23202
+The Story of Knucklebones
+korea.s	16019
+The Furry Orphan of War
+kzap.txt	10120
+KZAP's Psychedelic Sunday
+ladylust.hum	3794
+I have no idea where this came from or where it's going.
+lament.txt	7123
+Offender E477439's Lament
+lgoldbrd.txt	1982
+The Fable of the Little Golden Bird
+life.txt	867
+Notes towards a story
+lil	13764
+A Letter to Lillian by Gay Bost
+lionbird	6605
+Lionbirds, by MArtin R. Crim (1994)
+lionmane.txt	40548
+The Adventure of the Lion's Mane
+lionmosq.txt	1892
+The Fable of the Lion and the Mosquito
+lionwar.txt	1749
+The Lion Goes to War (Fable)
+lmermaid.txt	12445
+The Fable of the Little Mermaid
+lmtchgrl.txt	3215
+The Little Matchgirl
+long1-3.txt	73544
+The Longest Distance by D.W. Boynton (1992)
+lpeargrl.txt	4417
+The Little Pear Girl: A Story
+lrrhood.txt	5738
+The Story of Little Red Riding Hood
+ltp	20325
+Liberty Tree Pub: Her Honour, by D. M. Hanna
+luf	2691
+Luffing, by Ron Fleshman
+lure.txt	25546
+The Lure of the Temptress (Soft Documentation)
+mario.txt	5696
+MARIO, by Archer Blue: A Short History of Mario
+mattress.txt	13120
+Once Upon a Mattress, by Nikolai Kingsley, 1995
+mazarin.txt	32321
+The Adventure of the Mazarin Stone
+mcdonaldl.txt	6879
+A Day in McDonaldland by G.I. Joe (June 10, 1986)
+melissa.txt	6509
+Melissa and the Green Dragon
+mike.txt	712
+An Ode to Mike, by Alien
+mindprob.txt	12069
+Mind Probe, by Michael Abbot
+mindwar	5424
+Mind War by William S. Burroughs
+missing.txt	45497
+The Adventure of the Missing Three-Quarter (A story)
+modemhippy.txt	2604
+Modem Hippy: A Poem by Morpheous of LOM
+monkking.txt	2703
+The Story of the Monkey King
+monksol.txt	16278
+The Secret of Monkey Island Unvield by SYNDICATE
+mouslion.txt	1957
+The Story of the Mouse and the Lion
+mtinder.txt	5057
+The Story of the Magic Tinderbox
+musgrave.txt	42029
+The Musgrave Ritual (Story)
+musibrem.txt	3579
+The Musicians of Bremen
+mydream.txt	2798
+Someone Talks About Some Weird Dreams He Has
+myeyes	2304
+Poem: Through My Eyes
+narciss.txt	1383
+The Story of Narcissus
+nigel.1	4725
+The Saga of Nigel the Hedgehog
+nigel.10	16096
+The Saga of Nigel the Hedgehog 10 (July 6, 1989)
+nigel.2	9431
+The Saga of Nigel the Hedgehog 2 (May 25, 1989)
+nigel.3	9668
+The Saga of Nigel the Hedgehog 3 (June 2, 1989)
+nigel.4	8845
+The Saga of Nigel the Hedgehog 4 (June 2, 1989)
+nigel.5	6722
+The Saga of Nigel the Hedgehog 5 (June 12, 1989)
+nigel.6	9980
+The Saga of Nigel the Hedgehog 6 (June 12, 1989)
+nigel.7	8226
+The Saga of Nigel the Hedgehog 7 (june 17, 1989)
+nihgel_8.9	16339
+The Saga of Nigel the Hedgehog 8 and 9
+nitepeek.sto	14156
+"Peek in the Night" by Night Words
+non2	2963
+Musings by Joe DeRouen (1993)
+non3	2525
+If I Had One Wish... by L.J. Herbert (1993)
+non4	8370
+A Panacea for Cheezy Movies by L. Shawn Aiken
+obstgoat.txt	869
+The Tale of the Obstinate Goats
+omarsheh.txt	8280
+The Fable of Prince Omar and Princess Sheherazade
+outcast.dos	216738
+The Outcast, by Winwood Reade, 1933
+oxfrog.txt	1869
+The Fable of the Ox and the Frog
+paink-ws.txt	23093
+Painkiller, by William Slattery
+panama.txt	5775
+An Author Argues with his Main Character
+parotsha.txt	7664
+The Story of the Parrot Shah
+partya.txt	9982
+What happened on the Friday last October
+paul_har.sto	3226
+Paul Harvey's List of True Real Stories
+peace.fun	653
+Vision of Peace on Earth
+pepdegener.txt	4462
+Pepsi Degeneration by Morpheous of LOM
+pepsi.degenerat	4480
+Pepsi Degeneration by Morpheous of LOM
+perf	35939
+Picture Perfect, by Roberta Belinda
+pinocch.txt	19116
+The Story of Pinocchio
+piracy.sto	19929
+Arrr! The Pirates have arrived!
+plescopm.txt	6408
+Asleep by Craig Plesco
+poem-1.txt	1760
+Poetry: A Song of Love (October 25, 1993)
+poem-2.txt	1713
+Poetry: Broken Heats, by Kylis Noren (October 19, 1993)
+poem-4.txt	1192
+Poetry: "An Ode to Death" - By Us! (October 19, 1993)
+poplstrm.txt	4202
+The Fable of the Poplar and the Stream
+pphamlin.txt	4524
+The Pied Piper of Hamelin
+pregn.txt	10025
+Pregnant Pause by Dorothy Lindman
+prince.art	3643
+The Princess vs. the Principal, by Marc Perkel
+progx	4891
+Programmer X, by Greg Borek
+psf.txt	5284
+The Peasant, the Snake, and the Fox
+psi	34432
+Psicop, by Jack Hillman
+psyc	9382
+Psyche and Cupid: A Theory, by Dr. Harold Levdahed
+pussboot.txt	6174
+The Story of Puss in Boots
+qcarroll	1464
+How Sailor Ted Got Out of It
+quarter.c1	6852
+The Plan, by Shannon Carraher (Part 1)
+quarter.c10	7379
+Tea Time with the Devil, by Brant Swancer
+quarter.c11	1322
+I Spoke with the Sun, by Caroline Kennedy (And Other Poems)
+quarter.c12	4240
+Welcome to the Planet of Kampf, by Jim Zachary
+quarter.c13	12942
+The Mission, by Jon Lang
+quarter.c14	5757
+Leftover Stew, by Patrick Barnes
+quarter.c15	1281
+My Father and Me, by Mike Russello
+quarter.c16	598
+Under the Weeping Willow Tree, by Patrick Miner
+quarter.c17	7438
+Blind Fate, by Toby Bradley
+quarter.c18	5955
+Bearing Down, by John Dudley
+quarter.c19	4636
+Hometown Ways, by Amy Slavin
+quarter.c2	6990
+Remembering, by Kristin Feyen
+quarter.c3	18023
+The Quarantine, by Moses Domingo
+quarter.c4	280
+A Savage Projectile, by Steve Gaines
+quarter.c5	1640
+Peel Me Away, by Bill DeClercq
+quarter.c6	214
+Little White Lines, by Joe Raymundo
+quarter.c7	1306
+At Midnight, by Karin Johnson
+quarter.c8	12726
+The Singer in the Depths by Steven Myers
+quarter.c9	1561
+The Rose, by Suzy Edmonson
+quest	128319
+The Quest for Axe of the Dwarven Lords by Bruce RW. Reisman
+quickfix	1291
+Quick Fix, by William S. Burroughs
+quot	3388
+A Collection of Quotes by Poets about Poetry
+radar_ra.txt	302831
+Interview with the Radar Ranger: A Work of Fiction by D. Railleur
+rainda.txt	16946
+Rain Dance (Mechwarrior Fan Fiction) by Douglas M. Warren
+reality.txt	5761
+The Reality of Our Situation by Kortron
+reap	15152
+The Reaper, by Gay Bost
+redragon.txt	2563
+The Fable of the Red Dragon
+retrib.txt	16581
+Retribution by Andrew Varga (1991)
+rid.txt	895
+Getting Rid of the Riddler, by Alien
+robotech	233001
+Book Excerpt: Protoculture and the Children of the Shadow (Robotech)
+rock	11383
+Rock, by D.M. Hanna
+rocket.sf	215959
+The Space Saga of "Rocket" Roger Robinson (Story)
+roger1.txt	44564
+In Residence by KaRylin
+running.txt	49286
+Story: Running
+s&m_plot	8839
+The Plot Thickens: A Writer's Dream, by Cecilio Morales
+s&m_that	6465
+John's Diner: Who Was The Guy? By Lucia Chambers
+safe	9163
+Safe Place: A Synopsis, by Michael C. McPherson
+sanpedr2.txt	7322
+The Fruit of the Gods: Trichoserus Pachanoi
+shoscomb.txt	34558
+The Adventure of Shoscombe Old Place
+shrdfarm.txt	4775
+A Shrewd Farmer's Story (Fable)
+shulk.txt	17152
+The Fable of the Hunter and the Hunted
+sick-kid.txt	319013
+The Sick Kids: Story by Roger M. Wilcox
+sight.txt	10173
+Story about Jamie, badly formatted
+silverb.txt	54159
+Silver Blaze (Story)
+sis	9780
+Sister Mary Agnes by Gay Bost
+sleprncs.txt	6014
+The Sleeping Princess (Fable)
+snow.txt	12351
+Story about Ed, again badly formatted
+snowmaid.txt	1838
+The Fable of the Snow Maiden
+snowqn1.txt	4597
+The Fable of the Snow Queen
+social.vikings	6784
+Social Vikings by Flat Tire (August 5, 1988)
+socialvikings.txt	6845
+Social Vikings by The Flat Tire (August, 1988)
+solitary.txt	43869
+The Adventure of the Solitary Cyclist
+space.txt	5551
+Space Travel by Adam Poszar (1990)
+spam.key	7296
+The Key and I, or, My Travels in the Sky, and What I Found There, by Padre Martini, Archdukebishop of West Texas
+spectacl.poe	55113
+The Spectacles, by Edgar Allen Poe
+spider.txt	4042
+The World's Fastest Spider, by Andrew Varga (1991)
+spiders.txt	8217
+Story about Harvey and Spiders
+sqzply.txt	60800
+Squeeze Play, by Michael A. Stackpole (1989)
+sre-dark.txt	33666
+SRE's Darker Half, by Chris Trendle, Paul Gerth and Robert Chapman
+stainles.ana	3247
+A Cool 3.7 Million, by The Stainless Steal Rat
+stairdre.txt	5130
+The Stiarway Dram, by Satinka Istari
+startrek.txt	8473
+Startrek, The Ultimate Story!
+stsgreek	9245
+It's All Greek to uncle Thaddeus, by Joe DeRouen (1993)
+sucker.txt	3813
+The Dark Sucker, by Quantum Mechanic
+sunday.txt	2456
+Sunday, by Nanci (February 20, 1993)
+superg1	50938
+The Story of SUPERGUY!!
+szechuan	4599
+The Szechuan Taxi, by Dave Bealer
+t_zone.jok	9046
+Story: Mission Impossible Meets the Twilight Zone
+tailbear.txt	2695
+The Tail of the Bear: A Fable
+tao3.dos	52914
+The Tao Te Ching, translated by James Legge
+taxnovel.txt	47601
+Back Taxes, a Novel by Paul Mahler (1991-1992)
+tcoa.txt	13216
+The Cask of Amontilado, by Edgar Allan Poe
+tctac.txt	2301
+The Cockroach that Ate Cincinatti (Poem)
+tearglas.txt	31407
+Tears of Glass by Kimberly Ann Carter (1992)
+telefone.txt	3405
+The Telephone Rape Story
+terrorbears.txt	4816
+The Terror Bears on the Rampage by Darkside 414
+testpilo.hum	16609
+Test Pilot, Story by John Vornholt
+textfile.primer	6528
+The Ramsacker's Textfile Primer by The Ramsacker of Pieces of Eight (July 27, 1989)
+thanksg	1415
+A Thanksgiving Prayer, by William S. Burroughs
+the-tree.txt	558
+The Tree: A Poem
+thewave	14240
+The Navajo and the Bhuddist (October 19, 1992)
+timem.hac	185134
+The Time Machine, by H.G. Wells (1898)
+times.fic	14479
+Times Doubles Defect; Publisher Possibly Plinked by Jean Blevins
+timetrav.txt	9375
+The Problem with Time Travel (Story)
+tin	2795
+Tinned Warmth by Gordon Chapman
+tinsoldr.txt	6944
+The Tin Soldier (Story)
+toilet.s	1965
+My Toilet, my Kingdom, by Bill Luby (1994)
+traitor.txt	1135
+Treason, by Marcus Tullius Cicero
+tree.txt	3540
+Kevin and the Tree
+tuc_mees	6372
+The Ed Meese Commission presents Pornography Masquerading as Literature, by Tess Truehard and Gurn Blanston
+uglyduck.txt	4683
+The Fable of the Ugly Duckling
+unluckwr.txt	4128
+The Fable of the Unlucky Warrior
+vaincrow.txt	2645
+The Parable of the Vain Crow
+vainsong.txt	10925
+A Manly Wager, a Song by Lucillus
+valen	14686
+Valentine, Story by George Willard
+vampword.txt	1108
+A Vampyre's Words: Poem
+vday.hum	11086
+The Valentine's Day Blues, by B.A. Nilsson
+veiledl.txt	24615
+The Adventure of the Veiled Lodger
+vgilante.txt	671603
+The Vigilante
+wall.art	1924
+The Wall, from Karl L. Sandwell-Weiss
+wanderer.fun	1757
+Poem by David Redish, The Wanderer
+weaver.txt	4411
+Infromation about Spellweavers
+weeprncs.txt	5363
+The Weeping Princess
+whgdsreg.reg	7570
+Introduction to the Neolithic Great Goddess, by Ben Blumenberg (February 12, 1992)
+wisteria.txt	64414
+The Adventure of Wisteria Lodge
+withdraw.cyb	13668
+My Living Semi-Hell Type Experience Thing, by Urethris, 1992
+wlgirl.txt	8127
+The Story of the Wise Little Girl
+wolf7kid.txt	5786
+The Wolf and the Seven Kids
+wolfcran.txt	2366
+The Wolf and the Crane
+wolflamb.txt	1767
+The Wolf and the Lamb
+wombat.und	2320
+The Story of the Wombat, from Floyd Gecko
+write	2695
+The Three Golden Rules of Poetry by Michael Howard
+wrt	19047
+The Writer by Thomas Nevin Huber
+yukon.txt	76563
+The Spell of the Yukon and Other Verses by Robert W. Service
+zombies.txt	61632
+Zombies by Suzanne L. McAllister (Spoof/Tribute of George Romero Living Dead Movies)
