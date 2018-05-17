@@ -46,11 +46,10 @@ The inverted index is stored in the form of a json file, viz, `data.json`. Three
 
 *Statistics:*
 
-`Total no. of files: 19997`
-
-`Total no. of stopwords: 221`
-
-`Vocabulary size (after preprocessing): 184507 words`
+	```Total no. of files: 19997
+	Total no. of stopwords: 221
+	Vocabulary size (after preprocessing): 184507 words
+	```
 
 *Word Cloud:*
 

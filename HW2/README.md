@@ -39,14 +39,16 @@ _Special attention to terms in document title:_
 
 For this, created a file 'file_names.txt' with the syntax:
 	```<file_name> <file_size>
-	<file_title>```
+	<file_title>
+	```
 
 Using this file, created a `title_dic` which mapped each word in title to its corresponding `doc_id` alongwith `tf-idf` value.
 
 I also calculated the `td-idf` values of each document using `tf_dic`. This `tf_dic` dictionary mapped each word in the document to its corresponding `doc_id` alongwith `tf-idf` value.
 
 To give higher weight to title words than words in the body of a document, I combined the two dictionaries in the following way:
-	```tf_dic[word].doc->tf-idf = 0.6 * (title_dic[word].doc->tf-idf) + 0.4 * (tf_dic[word].doc->tf-idf)```
+	```tf_dic[word].doc->tf-idf = 0.6 * (title_dic[word].doc->tf-idf) + 0.4 * (tf_dic[word].doc->tf-idf)
+	```
 
 *Query Processing:*
 
