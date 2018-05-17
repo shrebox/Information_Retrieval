@@ -1,7 +1,7 @@
 ### Assignment 1 (Inverted Index)
 **Question**
 
-You need to construct an unigram inverted index on the dataset given at https://github.com/sayhitosandy/Information_Retrieval/Dataset/20_newsgroups.zip.
+You need to construct an unigram inverted index on the dataset given at https://github.com/sayhitosandy/Information_Retrieval/tree/master/Dataset/20_newsgroups.zip.
 
 Do complete preprocessing of data: Stop word removal, tokenisation etc. You may use libraries for it but clearly state your assumptions.
 
@@ -36,25 +36,25 @@ For every file in the dataset, we do the following:
 6. If the word is not a stopword, we remove any punctuations present in it.
 7. Then, we add the word to our inverted index.
 
-Our inverted index is a dictionary 'word_dic' in which the keys are files numbers from 1 to 19997 and the values are the corresponding document IDs stored in a set, in a sorted order.
+Our inverted index is a dictionary `word_dic` in which the keys are files numbers from `1` to `19997` and the values are the corresponding document IDs stored in a set, in a sorted order.
 
-In order to map the files numbers to each file, we store another dictionary 'count_to_file'. For the reverse mapping, we have a dictionary 'file_to_count'. This has been done because the file names are not unique across all the folders. So, we assign unique nonnegative integer IDs to each file (ranging from 1 to 19997) and store the mapping in the form of the two dictinaries, as mentioned above.
+In order to map the files numbers to each file, we store another dictionary `count_to_file`. For the reverse mapping, we have a dictionary `file_to_count`. This has been done because the file names are not unique across all the folders. So, we assign unique nonnegative integer IDs to each file (ranging from `1` to `19997`) and store the mapping in the form of the two dictinaries, as mentioned above.
 
-'freq_dic' is another dictionary that stores the frequency of each word in the corpus. This is used to build the word cloud.
+`freq_dic` is another dictionary that stores the frequency of each word in the corpus. This is used to build the word cloud.
 
-The inverted index is stored in the form of a json file, viz, 'data.json'. Three more json files are stored for the 'freq_dic', 'file_to_count' and 'count_to_file' dictionaries.
+The inverted index is stored in the form of a json file, viz, `data.json`. Three more json files are stored for the `freq_dic`, `file_to_count` and `count_to_file` dictionaries.
 
 *Statistics:*
 
-Total no. of files: 19997
+`Total no. of files: 19997`
 
-Total no. of stopwords: 221
+`Total no. of stopwords: 221`
 
-Vocabulary size (after preprocessing): 184507 words
+`Vocabulary size (after preprocessing): 184507 words`
 
 *Word Cloud:*
 
-I have made use of the libraries wordcloud and matplotlib to generate the word cloud. It is stored as a png file - 'cloud.png'. The word cloud takes the frequencies of each word in the corpus using the 'freq_dic'.
+I have made use of the libraries `wordcloud` and `matplotlib` to generate the word cloud. It is stored as a `png` file: [cloud.png](https://github.com/sayhitosandy/Information_Retrieval/tree/master/HW1/Results/cloud.png). The word cloud takes the frequencies of each word in the corpus using the `freq_dic`.
 
 *Query Processsing:*
 
@@ -71,4 +71,4 @@ We use Porter Stemmer on both `x` and `y` in order to convert them into their ro
 
 *Skip Pointers Algorithm Analysis*
 
-See analysis.pdf.
+See [analysis.pdf](https://github.com/sayhitosandy/Information_Retrieval/blob/master/HW1/Results/analysis.pdf).
