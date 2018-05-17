@@ -1,4 +1,4 @@
-### Assignment 1 (Inverted Index)
+### Assignment 5 (K-Means Clustering / Network Analysis)
 **Question 1**
 
 Download `20_newsgroup` dataset from https://github.com/sayhitosandy/Information_Retrieval/tree/master/Dataset/20_newsgroups.zip.
