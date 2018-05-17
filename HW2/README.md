@@ -37,11 +37,10 @@ All the preprocessing steps were performed: normalization, tokenization, stopwor
 
 _Special attention to terms in document title:_
 
-For this, created a file 'file_names.txt' with the syntax:
+For this, created a file `file_names.txt` with the syntax:
 	
-	`<file_name> <file_size>`
-	
-	`<file_title>`
+	<file_name> <file_size>
+	<file_title>
 
 Using this file, created a `title_dic` which mapped each word in title to its corresponding `doc_id` alongwith `tf-idf` value.
 
