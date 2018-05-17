@@ -43,30 +43,30 @@ All the tasks are performed directly on the graph. The outputs are stored as `pn
 
 *Formulae:*
 
-1. Degree Distribution
+1. **Degree Distribution**
 	
-	Referred from Wikipedia
+	[Referred from Wikipedia]
 	```
 	P(k) = n_k/n
 	where 	n_k = No of nodes with degree k
 			n = Total no of nodes
 	```
 
-2. Clustering Coefficient
+2. **Clustering Coefficient**
 	
-	Referred from https://www.youtube.com/watch?v=K2WF4pT5pFY
+	[Referred from https://www.youtube.com/watch?v=K2WF4pT5pFY ]
 	```
 	CC(v) = 2 * Nv / (kv * (kv - 1))
 	where	Nv = No of links between the neighbours of v
 			kv = Degree of v
 	```
 
-3. Closeness Centrality
+3. **Closeness Centrality**
 	
-	Ran BFS on all nodes, computed distances and took mean. Referred from slides.
+	Ran BFS on all nodes, computed distances and took mean. [Referred from slides]
 
-4. Betweenness Centrality
+4. **Betweenness Centrality**
 	
-	Referred from http://www.cl.cam.ac.uk/teaching/1617/MLRD/handbook/brandes.pdf.
+	[Referred from http://www.cl.cam.ac.uk/teaching/1617/MLRD/handbook/brandes.pdf ]
 	
 	Implemented Brandes algorithm.
